@@ -1,0 +1,27 @@
+.control{
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.control h2{
+    font-weight: 200;
+    font-size: 27px;
+    line-height: 1.6;
+    letter-spacing: 0.258em;
+    margin-bottom: 50px;
+}
+.unlock{
+    width:35vw;
+    height:35vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+}
+.unlock i{
+    font-size:20vw;
+    color: white;
+}

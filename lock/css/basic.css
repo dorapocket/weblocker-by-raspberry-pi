@@ -1,0 +1,41 @@
+.bigtit{
+    height: 45vh;
+    background: url("../img/main2.jpg") no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    margin: 0px 0px 0px 0px!important;
+}
+.bigtit h1{
+    font-weight: 300;
+    letter-spacing: 0.325em;
+    line-height: 0.8;
+    font-size: 33px;
+    color: white;
+}
+.bigtit p {
+    font-size: 15px;
+    font-weight: 200;
+    color: gray;
+}
+.login{
+    height: 50vh; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.staff{
+    background: gray;
+    height:5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+}
